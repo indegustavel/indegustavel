@@ -1,9 +1,8 @@
-# Hi there, I'm Gustavo Barros! (AKA Indegustavel) 
+# Hello World, I'm Gustavo Barros! (AKA Indegustavel) 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=tokyonight" height="170" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=tokyonight" height="170" alt="languages card" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=code&color=00b4d8&height=150&section=header&text=AI%20Engineer%20&%20MLOps&fontSize=40&animation=fadeIn" />
+</p>
 
 ### 🧠 AI Engineer | 🛠️ MLOps Researcher | 🏋️ Co-founder @ NeuroFit
 

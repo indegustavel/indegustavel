@@ -35,6 +35,5 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 
 * **LinkedIn:** [linkedin.com/in/gustavo-barros-31438120b/](https://www.linkedin.com/in/gustavo-barros-31438120b/)
 * **Website:** [neurofit-ia.com](https://neurofit-ia.com)
-* **Website:** [neurofit-ia.com](https://neurofit-ia.com)
 
 > "Apaixonado por resolver problemas reais onde a tecnologia é o meio, não apenas o fim."

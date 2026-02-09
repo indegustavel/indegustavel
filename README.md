@@ -3,6 +3,10 @@
 ### 🧠 AI Engineer | 🛠️ MLOps Researcher | 🏋️ Co-founder @ NeuroFit
 
 Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de transformar modelos complexos em soluções que impactam o mundo real.
+<br><br>
+## ⚙️ &nbsp;GitHub Analytics
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indegustavel&theme=tokyonight)
+<br><br>
 
 ---
 

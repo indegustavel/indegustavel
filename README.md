@@ -1,4 +1,4 @@
-# Opa, eu sou o Gustavo Barros!
+# Opa, eu sou o Gustavo Barros! (AKA Indegustavel)
 
 ### AI Engineer | MLOps Researcher | Co-founder @ NeuroFit
 

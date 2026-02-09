@@ -6,7 +6,7 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 
 ---
 
-## 🚀 No que estou trabalhando agora
+## No que estou trabalhando agora?
 
 * **NeuroFit:** Co-fundador de uma startup que utiliza I.A (Agentes, ML Clássico, etc) para revolucionar a experiência em academias. [Conheça a NeuroFit](https://neurofit-ia.com)
 * **CEIA (Centro de Excelência em IA):** Pesquisador no Projeto Ultimatum, focando na infraestrutura de **MLOps e CI/CD** para agentes de IA jurídica de alta performance.
@@ -14,31 +14,24 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 
 ---
 
-## 🛠️ Tech Stack & Toolbox
+## Tech Stack & Toolbox
 
-### 🧠 Intelligence & Data
+### Intelligence & Data
 * **LLMs & NLP:** LangChain, Agentes de IA, RAG, Fine-tuning de modelos.
 * **Machine Learning:** Scikit-learn.
 * **Ciência de Dados:** Pandas, NumPy, Visualização de dados.
 
-### ⚙️ DevOps & MLOps
+### DevOps & MLOps
 * **Pipelines:** CI/CD (GitHub Actions), Automação de deploys.
 * **Infra:** Docker, Estabilidade e Reprodutibilidade de experimentos.
 * **Hardware:** Robótica educacional, Arduino e sensores.
 
-### 📈 Metodologias & Negócios
+### Metodologias & Negócios
 * Lean Manufacturing, Kaizen (Melhoria Contínua), MDPE (Micro-tasks Driven Prompt Engineering)
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=indegustavel&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indegustavel&layout=compact&theme=radical)
-
----
-
-## 📫 Vamos conectar?
+## Vamos conectar?
 
 * **LinkedIn:** [linkedin.com/in/gustavo-barros-31438120b/](https://www.linkedin.com/in/gustavo-barros-31438120b/)
 * **Website:** [neurofit-ia.com](https://neurofit-ia.com)

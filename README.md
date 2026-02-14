@@ -1,4 +1,4 @@
-# Hello World, I'm Gustavo Barros! (AKA Indegustavel) 
+# Hello World, I'm Gustavo Barros! 
 
 ### 🧠 AI Engineer | 🛠️ NLP and Data Science Researcher | 🏋️ Co-founder @ NeuroFit
 
@@ -12,9 +12,9 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 
 ##  No que estou trabalhando agora?
   
-* **CEIA (Centro de Excelência em IA):** Pesquisador no *Projeto Ultimatum*. Foco total em **Infraestrutura de MLOps e CI/CD** para agentes de IA jurídica. ⚖️💻
-* **Grupo Bancorbrás:** Arquiteto de Agentes de IA, explorando o ecossistema **LangChain** e ferramentas Low-code para automação inteligente. 🏢🤖
-* **[NeuroFit](https://neurofit-ia.com):** Co-fundador. Utilizamos **Agentes de IA e ML Clássico** para revolucionar a experiência em academias. 🏋️‍♂️🤖 <div align="center">
+* **CEIA (Centro de Excelência em IA):** Pesquisador no *Projeto Ultimatum*. Foco total em **Infraestrutura de MLOps e CI/CD** para agentes de IA jurídica. 
+* **Grupo Bancorbrás:** Arquiteto de Agentes de IA, explorando o ecossistema **LangChain** e ferramentas Low-code para automação inteligente. 
+* **[NeuroFit](https://neurofit-ia.com):** Co-fundador. Utilizamos **Agentes de IA e ML Clássico** para revolucionar a experiência em academias.  <div align="center">
   <br>
   <a href="https://neurofit-ia.com" target="_blank">
     <img src="./img/logo-neurofit-v2.png" width="100" alt="NeuroFit Logo">
@@ -45,7 +45,7 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 
 ---
 
-## 📫 Vamos conectar?
+##  Vamos conectar?
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavo-barros-31438120b/" target="blank">

@@ -1,6 +1,6 @@
 # Hello World, I'm Gustavo Barros! (AKA Indegustavel) 
 
-### 🧠 AI Engineer | 🛠️ MLOps, NLP and Data Science Researcher | 🏋️ Co-founder @ NeuroFit
+### 🧠 AI Engineer | 🛠️ NLP and Data Science Researcher | 🏋️ Co-founder @ NeuroFit
 
 Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de transformar modelos complexos em soluções que impactam o mundo real.
 <br><br>

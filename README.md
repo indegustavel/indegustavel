@@ -40,9 +40,6 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-###  Metodologias & Negócios
-`Lean Manufacturing` • `Kaizen` • `MDPE (Micro-task Driven Prompt Engineering)`
-
 ---
 
 ##  Vamos conectar?

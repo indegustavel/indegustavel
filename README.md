@@ -3,10 +3,15 @@
 ### 🧠 AI Engineer | 🛠️ NLP and Data Science Researcher | 🏋️ Co-founder @ NeuroFit
 
 Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de transformar modelos complexos em soluções que impactam o mundo real.
+
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indegustavel&theme=tokyonight)
 <br><br>
+
+<div align="center">
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+</div>
 
 ---
 
@@ -39,6 +44,10 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
 
 ---
 

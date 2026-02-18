@@ -28,7 +28,7 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 
 ##  No que estou trabalhando agora?
   
-* **CEIA (Centro de Excelência em IA):** Pesquisador no *Projeto Ultimatum*. Foco total em **Infraestrutura de MLOps e CI/CD** para agentes de IA jurídica. 
+* **CEIA (Centro de Excelência em IA):** Pesquisador no *Projeto Ultimatum*. Foco em **Infraestrutura de MLOps e CI/CD** para agentes de IA jurídica. 
 * **Grupo Bancorbrás:** Arquiteto de Agentes de IA, explorando o ecossistema **LangChain** e ferramentas Low-code para automação inteligente. 
 * **[NeuroFit](https://neurofit-ia.com):** Co-fundador. Utilizamos **Agentes de IA e Churn Prediction** para revolucionar a experiência em academias.
 

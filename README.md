@@ -10,6 +10,21 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
+<<<<<<< Updated upstream
+=======
+<div align="center">
+  <a href="https://github.com/indegustavel/NLP_Studies">
+    <img src="https://img.shields.io/badge/🟣_NLP_Studies-Transformers_&_Data_Science-a78bfa?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/indegustavel/Agents_studies">
+    <img src="https://img.shields.io/badge/🔵_Agents_Studies-LangChain_&_RAG-00d4ff?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/indegustavel?tab=repositories">
+    <img src="https://img.shields.io/badge/🟠_MLOps-Docker_&_CI/CD-ffb020?style=for-the-badge" />
+  </a>
+</div>
+
+>>>>>>> Stashed changes
 ---
 
 ##  No que estou trabalhando agora?

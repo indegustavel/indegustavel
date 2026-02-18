@@ -349,6 +349,6 @@
 
   <!-- 12. Profile text -->
   <text x="425" y="26" text-anchor="middle" fill="#f1f5f9" font-size="20" font-weight="bold" font-family="sans-serif">Gustavo Barros</text>
-  <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">AI Engineer and Reseacher</text>
+  <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">Engineering, Research &amp; Entrepreneurship in AI</text>
   <text x="425" y="268" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" font-style="italic">&quot;O Objetivo é crescermos juntos.&quot;</text>
 </svg>

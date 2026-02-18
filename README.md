@@ -4,8 +4,6 @@
 
 Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de transformar modelos complexos em soluções que impactam o mundo real.
 
-Especializado em **AI Agents**, **RAG (Retrieval-Augmented Generation)**, **LLMs**, e **MLOps**. Meu foco está em construir sistemas inteligentes escaláveis usando **LangChain**, **Vector Databases**, e **Prompt Engineering**.
-
 ---
 
 <div align="center">
@@ -52,7 +50,7 @@ Especializado em **AI Agents**, **RAG (Retrieval-Augmented Generation)**, **LLMs
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Studies
 
 <div align="center">
   <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
@@ -78,16 +76,11 @@ Especializado em **AI Agents**, **RAG (Retrieval-Augmented Generation)**, **LLMs
 
 ## 🤝 Vamos construir algo juntos?
 
-Estou sempre aberto a discutir:
-- 🤖 **Arquiteturas de AI Agents** e sistemas multi-agente
-- 🔧 **Infraestrutura de MLOps** e pipelines de produção
-- 💡 **Oportunidades de colaboração** em projetos de IA
-
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-barros-31438120b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:gustavobarros.ia@gmail.com">
+  <a href="mailto:ghbarros2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://neurofit-ia.com" target="_blank">

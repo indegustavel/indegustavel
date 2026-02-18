@@ -7,12 +7,9 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 ---
 
 <div align="center">
-  <img src="./assets/generated/galaxy-header-interactive.svg" width="850" alt="Interactive Galaxy - Click on tech nodes to explore repositories"/>
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
 <div align="center">
   <a href="https://github.com/indegustavel/NLP_Studies">
     <img src="https://img.shields.io/badge/🟣_NLP_Studies-Transformers_&_Data_Science-a78bfa?style=for-the-badge" />
@@ -25,11 +22,6 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
   </a>
 </div>
 
->>>>>>> Stashed changes
-=======
-> 💡 **Dica:** Clique nos nós técnicos da galáxia acima para explorar meus repositórios!
-
->>>>>>> ff06a1974558d8566861f71dc5febd829c26bf2f
 ---
 
 ##  No que estou trabalhando agora?

@@ -59,6 +59,11 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 
 ---
 
+<div align="center">
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Featured Projects"/>
+</div>
+
+---
 ##  Vamos conectar?
 
 <p align="left">

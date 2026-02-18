@@ -14,10 +14,12 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
   <a href="https://github.com/indegustavel/NLP_Studies">
     <img src="https://img.shields.io/badge/🟣_NLP_Studies-Transformers_&_Data_Science-a78bfa?style=for-the-badge" />
   </a>
+  <br>
   <a href="https://github.com/indegustavel/Agents_studies">
     <img src="https://img.shields.io/badge/🔵_Agents_Studies-LangChain_&_RAG-00d4ff?style=for-the-badge" />
   </a>
-  <a href="https://github.com/indegustavel?tab=repositories">
+  <br>
+  <a href="https://github.com/indegustavel/MLOps-CEIA">
     <img src="https://img.shields.io/badge/🟠_MLOps-Docker_&_CI/CD-ffb020?style=for-the-badge" />
   </a>
 </div>
@@ -28,7 +30,7 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
   
 * **CEIA (Centro de Excelência em IA):** Pesquisador no *Projeto Ultimatum*. Foco total em **Infraestrutura de MLOps e CI/CD** para agentes de IA jurídica. 
 * **Grupo Bancorbrás:** Arquiteto de Agentes de IA, explorando o ecossistema **LangChain** e ferramentas Low-code para automação inteligente. 
-* **[NeuroFit](https://neurofit-ia.com):** Co-fundador. Utilizamos **Agentes de IA e ML Clássico** para revolucionar a experiência em academias.
+* **[NeuroFit](https://neurofit-ia.com):** Co-fundador. Utilizamos **Agentes de IA e Churn Prediction** para revolucionar a experiência em academias.
 
 <div align="center">
   <br>

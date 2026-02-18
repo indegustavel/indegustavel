@@ -1,14 +1,18 @@
-# Hello World, I'm Gustavo Barros! 
+# Hello World, I'm Gustavo Barros!
 
 ### 🧠 AI Engineer | 🛠️ NLP and Data Science Researcher | 🏋️ Co-founder @ NeuroFit
 
 Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de transformar modelos complexos em soluções que impactam o mundo real.
 
+Especializado em **AI Agents**, **RAG (Retrieval-Augmented Generation)**, **LLMs**, e **MLOps**. Meu foco está em construir sistemas inteligentes escaláveis usando **LangChain**, **Vector Databases**, e **Prompt Engineering**.
+
 ---
 
 <div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+  <img src="./assets/generated/galaxy-header-interactive.svg" width="850" alt="Interactive Galaxy - Click on tech nodes to explore repositories"/>
 </div>
+
+> 💡 **Dica:** Clique nos nós técnicos da galáxia acima para explorar meus repositórios!
 
 ---
 
@@ -16,11 +20,15 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
   
 * **CEIA (Centro de Excelência em IA):** Pesquisador no *Projeto Ultimatum*. Foco total em **Infraestrutura de MLOps e CI/CD** para agentes de IA jurídica. 
 * **Grupo Bancorbrás:** Arquiteto de Agentes de IA, explorando o ecossistema **LangChain** e ferramentas Low-code para automação inteligente. 
-* **[NeuroFit](https://neurofit-ia.com):** Co-fundador. Utilizamos **Agentes de IA e ML Clássico** para revolucionar a experiência em academias.  <div align="center">
+* **[NeuroFit](https://neurofit-ia.com):** Co-fundador. Utilizamos **Agentes de IA e ML Clássico** para revolucionar a experiência em academias.
+
+<div align="center">
   <br>
   <a href="https://neurofit-ia.com" target="_blank">
     <img src="./img/logo-neurofit-v2.png" width="100" alt="NeuroFit Logo">
   </a>
+</div>
+
 ---
 
 ##  Tech Stack & Toolbox
@@ -44,14 +52,7 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 
 ---
 
-<div align="center">
-  <br>
-  <h2>⚙️ &nbsp;GitHub Analytics</h2>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indegustavel&theme=tokyonight" />
-  <br>
-</div>
-
----
+## 🌟 Featured Projects
 
 <div align="center">
   <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
@@ -59,21 +60,41 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 
 ---
 
+## 📊 Focus Sectors
+
 <div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Featured Projects"/>
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Focus Areas"/>
 </div>
 
 ---
-##  Vamos conectar?
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gustavo-barros-31438120b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gustavo Barros" height="30" width="40" />
+## ⚙️ GitHub Analytics
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indegustavel&theme=tokyonight" />
+</div>
+
+---
+
+## 🤝 Vamos construir algo juntos?
+
+Estou sempre aberto a discutir:
+- 🤖 **Arquiteturas de AI Agents** e sistemas multi-agente
+- 🔧 **Infraestrutura de MLOps** e pipelines de produção
+- 💡 **Oportunidades de colaboração** em projetos de IA
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavo-barros-31438120b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:gustavobarros.ia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://neurofit-ia.com" target="_blank">
-    <img align="center" src="./img/logo-neurofit-v2.png" alt="NeuroFit" height="45" />
+    <img src="https://img.shields.io/badge/NeuroFit-Visite-7C3AED?style=for-the-badge&logo=dumbbell&logoColor=white" alt="NeuroFit"/>
   </a>
-</p>
+</div>
 
-> "Apaixonado por resolver problemas reais onde a tecnologia é o meio, não apenas o fim." 
+<br>
+
+> "Apaixonado por resolver problemas reais onde a tecnologia é o meio, não apenas o fim."

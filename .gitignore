@@ -16,8 +16,5 @@ htmlcov/
 *.swp
 *.swo
 *.log
-**generator/
 config.yml
 requirements-dev.txt
-requirements.txt
-**tests

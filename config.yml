@@ -34,7 +34,7 @@ galaxy_arms:
   - name: "AI Engineering"
     color: "synapse_cyan"
     items:
-      - "Agents (LangChain)"
+      - "Agents (LangChain & CrewAI)"
       - "RAG (LlamaIndex)"
       - "APIs (FastAPI)"
 

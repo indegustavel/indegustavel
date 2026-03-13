@@ -48,9 +48,11 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-1C3C3C?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Redes%20Neurais-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 ###  DevOps & MLOps
@@ -62,7 +64,7 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 
 ---
 
-## 🌟 Studies
+##  Studies
 
 <div align="center">
   <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
@@ -70,7 +72,7 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 
 ---
 
-## 📊 Focus Sectors
+##  Focus Sectors
 
 <div align="center">
   <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Focus Areas"/>
@@ -78,7 +80,7 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 
 ---
 
-## ⚙️ GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indegustavel&theme=tokyonight" />
